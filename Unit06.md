@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM102: General Chemistry II"
+course_description: "This course develops the chemical principles and theories that are used in a variety of practical applications. Topics include chemical kinetics, solution chemistry, chemical equilibrium, acids, bases, and buffers, electrochemistry, nuclear chemistry, and an introduction to organic chemistry."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Organic Chemistry** <span id="6"></span> 
 *Although we have devoted an entire separate course (CHEM103: Organic
 Chemistry) in the chemistry discipline to the subject of organic

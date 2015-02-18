@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM102: General Chemistry II"
+course_description: "This course develops the chemical principles and theories that are used in a variety of practical applications. Topics include chemical kinetics, solution chemistry, chemical equilibrium, acids, bases, and buffers, electrochemistry, nuclear chemistry, and an introduction to organic chemistry."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Electrochemistry** <span id="4"></span> 
 *You may think that electricity and chemistry have little to do with
 another.  However, electrochemistry enables us to use batteries—from the

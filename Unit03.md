@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM102: General Chemistry II"
+course_description: "This course develops the chemical principles and theories that are used in a variety of practical applications. Topics include chemical kinetics, solution chemistry, chemical equilibrium, acids, bases, and buffers, electrochemistry, nuclear chemistry, and an introduction to organic chemistry."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Acids and Bases** <span id="3"></span> 
 *You probably know that when you add vinegar to baking soda, you create
 a wonderful foaming substance.  Some of you might have performed this

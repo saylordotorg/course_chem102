@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM102: General Chemistry II"
+course_description: "This course develops the chemical principles and theories that are used in a variety of practical applications. Topics include chemical kinetics, solution chemistry, chemical equilibrium, acids, bases, and buffers, electrochemistry, nuclear chemistry, and an introduction to organic chemistry."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Nuclear Chemistry** <span id="5"></span> 
 *How do we know that dinosaurs are really millions of years old, or that
 a particular area or object is radioactive and therefore dangerous to
