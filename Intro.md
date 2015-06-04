@@ -69,4 +69,12 @@ through the course in the order presented.
 However, in order to adequately prepare for this exam, you will need to
 work through the assessments in this course.   
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/chem102/Unit01/)
+- [Unit 2](https://legacy.saylor.org/chem102/Unit02/)
+- [Unit 3](https://legacy.saylor.org/chem102/Unit03/)
+- [Unit 4](https://legacy.saylor.org/chem102/Unit04/)
+- [Unit 5](https://legacy.saylor.org/chem102/Unit05/)
+- [Unit 6](https://legacy.saylor.org/chem102/Unit06/)
+- [Unit 7](https://legacy.saylor.org/chem102/Unit07/)
