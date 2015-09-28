@@ -79,3 +79,4 @@ work through the assessments in this course. 
 - [Unit 5](https://legacy.saylor.org/chem102/Unit05/)
 - [Unit 6](https://legacy.saylor.org/chem102/Unit06/)
 - [Unit 7](https://legacy.saylor.org/chem102/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM102/CHEM102-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM102/CHEM102-FinalExam-Answers.html)
