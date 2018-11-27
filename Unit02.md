@@ -227,13 +227,13 @@ common ion can never be an ion that is always soluble.*
     Ksp”; “Solubility Product Constant, Ksp”; and “Common Ion Effect”**
     Link: UC Davis: ChemWiki’s [“Solubility Product Constant (Ksp) and
     the Common Ion
-    Effect”](http://www.saylor.org/site/wp-content/uploads/2012/07/Solubility-Product-Constant.pdf)
+    Effect”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Solubility-Product-Constant.pdf)
     ; [“Relating Solubility and
-    Ksp”](http://www.saylor.org/site/wp-content/uploads/2012/07/Relating-Solubility-and-Ksp.pdf);
+    Ksp”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Relating-Solubility-and-Ksp.pdf);
     [“Solubility Product Constant,
-    Ksp”](http://www.saylor.org/site/wp-content/uploads/2012/07/Solubility-Product-Constan1.pdf);
+    Ksp”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Solubility-Product-Constan1.pdf);
     and [“Common Ion
-    Effect”](http://www.saylor.org/site/wp-content/uploads/2012/07/Common-Ion-Effect.pdf)
+    Effect”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Common-Ion-Effect.pdf)
     (PDF)  
         
      Instructions: Please read each of the four sections for an

@@ -193,7 +193,7 @@ the bottom.*
 -   **Reading: UC Davis: ChemWiki’s “Henderson-Hasselbach
     Approximation”**
     Link: UC Davis: ChemWiki’s “[Henderson-Hasselbach
-    Approximation](http://www.saylor.org/site/wp-content/uploads/2012/07/Henderson.pdf)”
+    Approximation](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Henderson.pdf)”
     (PDF)  
       
      Instructions:  Please read the entire page, which explains how to

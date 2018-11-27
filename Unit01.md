@@ -11,7 +11,7 @@ reactants to determine speed.*
 **1.1 Collision Theory** <span id="1.1"></span> 
 -   **Reading: Boundless: “The Collision Theory”**
     Link: Boundless: [“The Collision
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2013/03/CHEM102-1.1-CollisionTheory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/CHEM102-1.1-CollisionTheory.pdf) (PDF)  
       
      Instructions: Read this article, which quantitatively explains how
     chemical reactions occur and why each reaction proceeds at a
@@ -29,7 +29,7 @@ reactants to determine speed.*
 **1.2.1 Nature of Reactants** <span id="1.2.1"></span> 
 -   **Reading: Boundless: “Measuring Reaction Rates”**
     Link: Boundless: [“Measuring Reaction
-    Rates”](http://www.saylor.org/site/wp-content/uploads/2013/03/CHEM102-1.2.1-Measuring-Reaction-Rates.pdf)
+    Rates”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/CHEM102-1.2.1-Measuring-Reaction-Rates.pdf)
     (PDF)  
       
      Instructions: Read this article, which explains how reaction rates
@@ -46,7 +46,7 @@ reactants to determine speed.*
 **1.2.2 Concentration** <span id="1.2.2"></span> 
 -   **Reading: Boundless: “Influences on Reaction Rate”**
     Link: Boundless: [“Influences on Reaction
-    Rate”](http://www.saylor.org/site/wp-content/uploads/2013/03/CHEM102-1.2.2-Influences-on-Reaction-Rates.pdf)
+    Rate”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/CHEM102-1.2.2-Influences-on-Reaction-Rates.pdf)
     (PDF)  
       
      Instructions: Read this article, which explains how reaction rates
@@ -116,7 +116,7 @@ that are not included in the rate law are zero-order!*
 -   **Reading: University of California, Davis: ChemWiki: “Reaction
     Mechanisms”**
     Link: University of California, Davis: ChemWiki: [“Reaction
-    Mechanisms”](http://www.saylor.org/site/wp-content/uploads/2013/03/CHEM102-1.4-Reaction-Mechanisms.pdf)
+    Mechanisms”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/CHEM102-1.4-Reaction-Mechanisms.pdf)
     (PDF)  
       
      Instructions: Read this article, which explains the dynamics – more
