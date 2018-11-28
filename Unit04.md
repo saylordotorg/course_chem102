@@ -171,7 +171,7 @@ much metal is plated.  *
 
 -   **Reading: UC Davis: Chemwiki’s “Electrolytic Cells”**
     Link: UC Davis: Chemwiki’s [“Electrolytic
-    Cells”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/Electrolytic-Cells.pdf)
+    Cells”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/Electrolytic-Cells.pdf)
     (PDF)  
       
      Instructions:  Please read the entire page, which describes
