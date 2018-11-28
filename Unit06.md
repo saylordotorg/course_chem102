@@ -25,7 +25,7 @@ we really mean it!*
 
 -   **Reading: Boundless: “Properties of Carbon”**
     Link: Boundless: [“Properties of
-    Carbon”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/Chem102-6.1-Properties-of-Carbon.pdf)
+    Carbon”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/Chem102-6.1-Properties-of-Carbon.pdf)
     (PDF)  
       
      Instructions: Read this article, which explains carbon at the
